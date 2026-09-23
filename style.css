@@ -1,4 +1,6 @@
 .tamanoCarrusel {
     height: 350px;
     background-size: contain;
+    object-fit: cover;
+    object-position: 0% 25%
 }
